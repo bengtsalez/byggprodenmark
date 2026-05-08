@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #004e89;
+  --color-brand-dark: #00356f;
+  --color-accent: #ff6b35;
+  --color-accent-dark: #d94f1a;
+  --font-sans: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
